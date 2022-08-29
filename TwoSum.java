@@ -1,4 +1,9 @@
-class Solution {
+Question: if Given target present in the array then return true or else false
+
+
+
+
+Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] arr=new int[2];
        int l=0;
